@@ -1,0 +1,7 @@
+stap 1 : mobiel van klein naar origineel elastic ease y-100 van onzichtbaar naar zichtbaar
+stap 2: tekst komt tevoorschijn onzicht naar zicht, x-10 (from), ease:bounce
+stap 3. hand komt van scherm van onder naar scherm en swiped label toegevoegd om tekst te kunnen timen op het juist moment
+stap 4:hand weer terugdraaien naar normaal 
+stap 5: hand weer naar beneden
+stap 6: op de timing van stap 3 swipen en dat controleren met het label en een extra label daar weer toegevoegd om tekst 2 tegelijkertijd weer in te kunnen laten komen
+stap 7: tekst 2 komt in het scherm.
